@@ -75,7 +75,7 @@ Applies neuro-symbolic hallucination-mitigation research (from my MS thesis, SEN
 
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=udshah31&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="udshah31's GitHub Stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=udshah31&theme=transparent&border_radius=10&locale=en" alt="udshah31's Streak" />
+  <img width="390" src="https://streak-stats.demolab.com/?user=udshah31&theme=transparent&border_radius=10&locale=en" alt="udshah31's Streak" />
 </div>
 
 <div align="center">
@@ -85,5 +85,5 @@ Applies neuro-symbolic hallucination-mitigation research (from my MS thesis, SEN
 <br>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/udshah31/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=udshah31&label=Profile%20Views&color=4493F8&style=flat" alt="Visitor Count" />
 </p>
