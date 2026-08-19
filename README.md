@@ -59,9 +59,6 @@ Kotlin Multiplatform adaptive-bitrate (ABR) streaming lab — shared ABR engine 
 Applies neuro-symbolic hallucination-mitigation research (from my MS thesis, SENSE) to medical diagnosis tasks.
 - **Stack:** Python
 
-### 📊 [tradingview-mcp](https://github.com/udshah31/tradingview-mcp)
-AI-assisted TradingView chart analysis — connects Claude Code to TradingView Desktop for personal workflow automation.
-
 <br>
 
 ## 🛠️ Languages & Tools
