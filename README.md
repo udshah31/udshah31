@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=32&center=true&vCenter=true&width=600&height=60&color=4493F8&duration=3500&lines=Hi+there!+I'm+Uday+👋;+Senior+Android+Engineer;+Building+AI-Powered+Tools;" />
+  <img src="https://streak-stats.demolab.com/?font=Inter&size=32&center=true&vCenter=true&width=600&height=60&color=4493F8&duration=3500&lines=Hi+there!+I'm+Uday+👋;+Senior+Android+Engineer;+Building+AI-Powered+Tools;" />
 </h1>
 
 <p align="center">
@@ -7,10 +7,10 @@
 </p>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/udaysah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:udshah31@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
