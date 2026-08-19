@@ -7,10 +7,10 @@
 </p>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/udaysah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:udshah31@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -22,7 +22,7 @@
 - 📱 Senior **Android Engineer** with ~6 years of professional experience building native mobile applications
 - 🎓 Currently pursuing an **MS in Computer Science** at St. Cloud State University
 - 🧠 Deep-diving into **AI Engineering** — LLM agents, RAG pipelines, and multi-agent tool orchestration
-- 🔬 MS thesis work centers on neuro-symbolic hallucination mitigation, extended into medical-diagnosis applications
+- 🔬 MS thesis work centers on neuro-symbolic hallucination mitigation, extended into medical diagnosis applications
 - 💼 Open to **Senior Android Developer**, **AI Engineer**, and **Java/Spring Backend** roles (contract or full-time)
 - 📈 Building AI tooling around prediction markets and trading workflows
 
