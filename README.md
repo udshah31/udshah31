@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=32&center=true&vCenter=true&width=600&height=60&color=4493F8&duration=3500&lines=Hi+there!+I'm+Uday+👋;+Senior+Android+Engineer;+Building+AI-Powered+Tools;" />
+  <img src="./assets/heading.svg" width="600" height="60" alt="Hi there! I'm Uday 👋" />
 </h1>
 
 <p align="center">
@@ -8,10 +8,10 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/udaysah/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="./assets/linkedin.svg" alt="LinkedIn" />
   </a>
   <a href="mailto:udshah31@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="./assets/email.svg" alt="Email Uday" />
   </a>
 </div>
 
@@ -66,10 +66,14 @@ AI-assisted TradingView chart analysis — connects Claude Code to TradingView D
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,spring,python,react,nodejs,typescript" />
+  <img src="./assets/languages.svg" alt="Kotlin, Java, Android Studio, Spring, Python, React, Node.js, TypeScript" />
   <br>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,fastapi,git,github,figma,linux" />
+  <img src="./assets/tools.svg" alt="PostgreSQL, Redis, Docker, FastAPI, Git, GitHub, Figma, Linux" />
 </p>
+
+**Languages & frameworks:** Kotlin, Java, Spring, Python, React, Node.js, TypeScript, FastAPI
+
+**Tools & platforms:** Android Studio, PostgreSQL, Redis, Docker, Git, GitHub, Figma, Linux
 
 <br>
 
