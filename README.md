@@ -22,7 +22,6 @@
 - 📱 Senior **Android Engineer** with ~6 years of professional experience building native mobile applications
 - 🎓 Currently pursuing an **MS in Computer Science** at St. Cloud State University
 - 🧠 Deep-diving into **AI Engineering** — LLM agents, RAG pipelines, and multi-agent tool orchestration
-- 🔬 MS thesis work centers on neuro-symbolic hallucination mitigation, extended into medical-diagnosis applications
 - 💼 Open to **Senior Android Developer**, **AI Engineer**, and **Java/Spring Backend** roles (contract or full-time)
 - 📈 Building AI tooling around prediction markets and trading workflows
 
@@ -53,13 +52,6 @@ Native Android sleep/recovery tracking app with an Eight Sleep/Whoop-style dashb
 ### 📡 [ARBLabKMM](https://github.com/udshah31/ARBLabKMM)
 Kotlin Multiplatform adaptive-bitrate (ABR) streaming lab — shared ABR engine with an Android Compose player console, iOS in progress.
 - **Stack:** Kotlin Multiplatform, ExoPlayer, HLS, Jetpack Compose
-
-### 🧠 [medsymbol](https://github.com/udshah31/medsymbol)
-Applies neuro-symbolic hallucination-mitigation research (from my MS thesis, SENSE) to medical diagnosis tasks.
-- **Stack:** Python
-
-### 📊 [tradingview-mcp](https://github.com/udshah31/tradingview-mcp)
-AI-assisted TradingView chart analysis — connects Claude Code to TradingView Desktop for personal workflow automation.
 
 <br>
 
